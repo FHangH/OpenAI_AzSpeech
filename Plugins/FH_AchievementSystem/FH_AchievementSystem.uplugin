@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "FH_AchievementSystem",
+	"Description": "AchievementSystem",
+	"Category": "Achievement",
+	"CreatedBy": "Fangh",
+	"CreatedByURL": "fangh,space",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "FH_AchievementSystem",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"ProgramAllowList": ["UnrealPak"],
+			"WhitelistPlatforms": ["Win64", "Linux", "Android"]
+		}
+	]
+}
